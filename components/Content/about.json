@@ -6,27 +6,25 @@
   "bannerImage": "banner.jpg",
   "h1Banner": "Meridian Affordable Fences & Gates Pros Near Me",
   "p1Banner": "",
-  "p2":"At Meridian Affordable Fences & Gates Pros, we are committed to providing high-quality, durable, and budget-friendly fencing and gate solutions for homeowners and businesses. With years of experience in the industry, we take pride in our craftsmanship, attention to detail, and customer-first approach. Whether you need a new installation, repair, painting, or weatherproofing, our expert team ensures your fence and gate not only look great but also provide security and longevity.",
+  "p2": "At Meridian Affordable Fences & Gates Pros, we are committed to providing high-quality, durable, and budget-friendly fencing and gate solutions for homeowners and businesses. With years of experience in the industry, we take pride in our craftsmanship, attention to detail, and customer-first approach. Whether you need a new installation, repair, painting, or weatherproofing, our expert team ensures your fence and gate not only look great but also provide security and longevity.",
   "h2Image": "whitewashed-bark-of-fruit-trees-growing-in-sunny.jpg",
-  "missionSection":[
+  "missionSection": [
     {
       "title": "Our Mission",
-    "description": "Our mission is to deliver top-quality fencing and gate solutions at affordable prices while maintaining superior customer service. We strive to enhance the security, privacy, and beauty of properties in Meridian through expert craftsmanship and durable materials."
+      "description": "Our mission is to deliver top-quality fencing and gate solutions at affordable prices while maintaining superior customer service. We strive to enhance the security, privacy, and beauty of properties in Meridian through expert craftsmanship and durable materials."
     },
     {
       "title": "Our Vision",
-    "description": "We envision becoming the go-to fencing and gate company in Meridian, known for our exceptional quality, affordability, and reliable service. Our goal is to continue innovating and improving our techniques to offer long-lasting, stylish, and low-maintenance fencing solutions for every customer."
+      "description": "We envision becoming the go-to fencing and gate company in Meridian, known for our exceptional quality, affordability, and reliable service. Our goal is to continue innovating and improving our techniques to offer long-lasting, stylish, and low-maintenance fencing solutions for every customer."
     },
     {
       "title": "Our Values",
-    "description": "We prioritize quality, affordability, and customer satisfaction. With expert craftsmanship, transparent pricing, and durable materials, we ensure long-lasting fencing solutions. Our values include honesty, reliability, innovation, and excellence, delivering secure and stylish fences. Your trust is our priority!"
+      "description": "We prioritize quality, affordability, and customer satisfaction. With expert craftsmanship, transparent pricing, and durable materials, we ensure long-lasting fencing solutions. Our values include honesty, reliability, innovation, and excellence, delivering secure and stylish fences. Your trust is our priority!"
     }
   ],
-  "areaweserveSection":{
+  "areaweserveSection": {
     "description": "We serve all across the Meridian",
-    "linkText":"Check our Fence service locations here.",
-    "link":"/areas-we-serve"
+    "linkText": "Check our Fence service locations here.",
+    "link": "/areas-we-serve"
   }
-
-  
 }
