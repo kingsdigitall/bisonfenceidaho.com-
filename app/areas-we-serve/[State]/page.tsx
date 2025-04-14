@@ -22,7 +22,6 @@ import Types from "@/app/components/Widgets/Types";
 import Affordable from "@/app/components/Home/Affordable";
 import ProcessWidget from "@/app/components/Widgets/ProcessWidget";
 import AreaWeServe from "@/app/components/Widgets/AreaWeServe";
-import NavbarState from "@/app/components/State/NavbarState";
 // import Service from "@/app/Components/Service";
 
 interface SubdomainPageProps {
@@ -35,7 +34,7 @@ export function generateMetadata({ params }: SubdomainPageProps) {
   const ContentData = cityData[State];
   return {
     title: ContentData?.metaTitle,
-    description: ContentData?.metaDescription,
+    description: `${ContentData?.metaDescription} Call us at ${ContactInfo.No}.`,
     alternates: {
       canonical: `${ContactInfo.baseUrl}areas-we-serve/${State}/`,
     },
@@ -151,7 +150,7 @@ export default function SubdomainPage({ params }: SubdomainPageProps) {
         h1={`${ContentData.h1Banner} ${ContentData.zipCodes && ContentData.zipCodes.split("|")[0]}`}
         image={ContentData.bannerImage}
         header={ContentData.bannerQuote}
-        p1={ContentData.metaDescription}
+        p1={`${ContentData?.metaDescription} Call us at ${ContactInfo.No}.`}
       />
       {/* Section 1 */}
       {/* <p>{subDomain.map((item:any)=>(
