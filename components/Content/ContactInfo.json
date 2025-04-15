@@ -5,5 +5,10 @@
     "baseUrl": "https://bisonfenceidaho.com/",
     "host": "bisonfenceidaho.com",
     "name": "Meridian Affordable Fences & Gates Pros",
-    "address": "E Commercial St Meridian, ID 83642, USA"
+    "address": "E Commercial St Meridian, ID 83642, USA",
+    "service": "Fences & Gates Services",
+    "location": "Meridian, ID",
+    "zipCode": "83642",
+    "bannerImage": "https://ik.imagekit.io/serviceproviders/bisonfenceidaho.com/banner.jpg?updatedAt=1743842139143",
+    "logo": "https://ik.imagekit.io/serviceproviders/bisonfenceidaho.com/logo.png?updatedAt=1743842115640"
 }
