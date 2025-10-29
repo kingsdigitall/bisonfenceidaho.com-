@@ -10,5 +10,9 @@
     "location": "Meridian, ID",
     "zipCode": "83642",
     "bannerImage": "https://ik.imagekit.io/serviceproviders/bisonfenceidaho.com/banner.jpg?updatedAt=1743842139143",
-    "logo": "https://ik.imagekit.io/serviceproviders/bisonfenceidaho.com/logo.png?updatedAt=1743842115640"
+    "logoImage": "https://ik.imagekit.io/serviceproviders/bisonfenceidaho.com/logo.png?updatedAt=1743842115640",
+    "favicon": "",
+    "googleAnalytics": "",
+    "main": "#7e5548",
+    "minor": "#4b322a"
 }
